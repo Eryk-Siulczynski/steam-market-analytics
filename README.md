@@ -32,9 +32,9 @@ Ongoing development
 
 ## Requirements
 
-pandas
-requests
-beautifulsoup4
+* pandas
+* requests
+* beautifulsoup4
 
 ## Dashboard Preview
 
