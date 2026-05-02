@@ -29,6 +29,13 @@ Ongoing development
 * Visual dashboard
 * Advanced scoring model
 * Genre trend insights
+
+## Requirements
+
+pandas
+requests
+beautifulsoup4
+
 ## Dashboard Preview
 
 ![Dashboard Preview](dashboard/screenshots/dashboard_preview.png)
