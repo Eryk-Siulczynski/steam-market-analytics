@@ -29,3 +29,7 @@ Ongoing development
 * Visual dashboard
 * Advanced scoring model
 * Genre trend insights
+## Dashboard Preview
+
+![Dashboard Preview](dashboard/screenshots/dashboard_preview.png)
+<img width="799" height="810" alt="Zrzut ekranu 2026-05-02 142108" src="https://github.com/user-attachments/assets/bff16b46-941b-4738-b94b-80530a27ba87" />
