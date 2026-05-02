@@ -38,6 +38,6 @@ Ongoing development
 
 ## Dashboard Preview
 
-LINK: https://docs.google.com/spreadsheets/d/1kCtosf1DEiFTbdfYVRkC2BALv4jb259UxEoqPfVaQHU/edit?usp=sharing
+Live Dashboard (Google Sheets - View Only): https://docs.google.com/spreadsheets/d/1kCtosf1DEiFTbdfYVRkC2BALv4jb259UxEoqPfVaQHU/edit?usp=sharing
 
 <img width="799" height="810" alt="Zrzut ekranu 2026-05-02 142108" src="https://github.com/user-attachments/assets/bff16b46-941b-4738-b94b-80530a27ba87" />
