@@ -38,16 +38,21 @@ The project aims to simulate a lightweight market intelligence tool that could s
 - Which segments appear oversaturated?
 - What market characteristics correlate with strong performance?
 
-## Dashboard Preview
-
-Live Dashboard (View Only):
-https://docs.google.com/spreadsheets/d/1kCtosf1DEiFTbdfYVRkC2BALv4jb259UxEoqPfVaQHU/edit?usp=sharing
-
-## Current Development
-
 Ongoing improvements include:
 - scheduled automated updates,
 - Power BI dashboards,
 - enhanced scoring methodology,
 - additional trend indicators,
 - deeper genre segmentation.
+
+## Dashboard Preview
+
+Live Dashboard Google Sheets (View Only):
+https://docs.google.com/spreadsheets/d/1kCtosf1DEiFTbdfYVRkC2BALv4jb259UxEoqPfVaQHU/edit?usp=sharing
+
+Power BI (work in progress)
+<img width="1875" height="1054" alt="image" src="https://github.com/user-attachments/assets/963d525d-aefb-4173-bef3-881f9748af55" />
+
+## Current Development
+
+
