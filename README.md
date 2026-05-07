@@ -1,43 +1,53 @@
 # Steam Market Analytics
 
-Analytics project focused on tracking weekly Steam Top Sellers and evaluating market opportunities.
+Market analytics project focused on tracking Steam Top Sellers data and identifying game market trends and commercial opportunities.
 
-## Tools
+## Project Goal
 
-* Python
-* pandas
-* requests
-* BeautifulSoup
-* Excel / Google Sheets
+The goal of the project is to analyze Steam marketplace dynamics by collecting weekly Top Sellers snapshots, enriching the data with Steam API metadata, and building a historical dataset for trend and performance analysis.
 
-## Features
+The project aims to simulate a lightweight market intelligence tool that could support:
+- game publishers,
+- indie developers,
+- product analysts,
+- market researchers.
 
-* Weekly Top Sellers data collection
-* Steam API metadata enrichment
-* Historical snapshot database
-* Trend analysis
-* Scoring model (sales potential / trend / quality)
-* Dashboard reporting
+## Tech Stack
 
-## Current Status
+- Python
+- pandas
+- requests
+- BeautifulSoup
+- Google Sheets / Power BI
 
-Ongoing development
+## Key Features
 
-## Next Steps
+- Automated Steam Top Sellers scraping
+- Steam API enrichment pipeline
+- Historical snapshot storage
+- Weekly trend tracking
+- Genre-level analysis
+- Scoring model for market opportunity evaluation
+- Dashboard reporting
 
-* Automated scheduled updates
-* Visual dashboard
-* Advanced scoring model
-* Genre trend insights
+## Example Business Questions
 
-## Requirements
-
-* pandas
-* requests
-* beautifulsoup4
+- Which genres are currently gaining momentum?
+- Which games show strong ranking growth week-over-week?
+- Are higher-priced games outperforming cheaper titles?
+- Which segments appear oversaturated?
+- What market characteristics correlate with strong performance?
 
 ## Dashboard Preview
 
-Live Dashboard (Google Sheets - View Only): https://docs.google.com/spreadsheets/d/1kCtosf1DEiFTbdfYVRkC2BALv4jb259UxEoqPfVaQHU/edit?usp=sharing
+Live Dashboard (View Only):
+https://docs.google.com/spreadsheets/d/1kCtosf1DEiFTbdfYVRkC2BALv4jb259UxEoqPfVaQHU/edit?usp=sharing
 
-<img width="799" height="810" alt="Zrzut ekranu 2026-05-02 142108" src="https://github.com/user-attachments/assets/bff16b46-941b-4738-b94b-80530a27ba87" />
+## Current Development
+
+Ongoing improvements include:
+- scheduled automated updates,
+- Power BI dashboards,
+- enhanced scoring methodology,
+- additional trend indicators,
+- deeper genre segmentation.
